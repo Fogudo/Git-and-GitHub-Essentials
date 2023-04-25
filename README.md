@@ -6,4 +6,4 @@ Now i want to commit and push back to my forked copy.
 
 Added a third line and more.
 
-New details again.
+New details again
